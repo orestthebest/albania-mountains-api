@@ -1,4 +1,0 @@
-API Basic Auth Credentials (Albania Mountains API, Orest Bashi)
-
-Username: admin
-Password: albania2026
